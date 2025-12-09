@@ -1,2 +1,7 @@
 Welcome to Git
+<<<<<<< HEAD
 Conflict version from main
+=======
+Updated line on feature branch
+Conflict version from branch
+>>>>>>> conflict-branch
